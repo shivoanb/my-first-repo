@@ -24,3 +24,5 @@ pacman::p_load(
 alzheimer_data <- import(here("data", "alzheimers_data_clean.csv"))
 
 nrow(alzheimer_data)
+
+# Visualize data
